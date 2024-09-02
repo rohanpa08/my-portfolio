@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding-inline-start: 0%;
+}
+.main{
+    background-position: center;
+    color: blue;
+    background-size: contain;
+
+}
+.ul{
+    background-position: left;
+}
